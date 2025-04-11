@@ -1,2 +1,2 @@
 # AI-Assistance
-Small AI Assistance project using HTML, CSS , JAVA SCRIPT
+Small project on AI Assistance using HTML, CSS , JAVA SCRIPT
